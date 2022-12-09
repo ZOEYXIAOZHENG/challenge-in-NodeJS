@@ -5,7 +5,7 @@ accepts a region / continent as an input parameter and returns the total populat
 
 ## Installation
 
-This sever is written in NodeJS. Pleaes refer to this [link](https://nodejs.org/en/download/) to install it.
+This sever is written in NodeJS. Please refer to this [link](https://nodejs.org/en/download/) to install it.
 
 ### To install all project dependencies
 
